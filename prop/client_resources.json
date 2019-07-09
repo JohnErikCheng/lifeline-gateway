@@ -1,0 +1,58 @@
+[
+  {
+    "name": "App Home Resource",
+    "owner": {
+      "id": "5acafb6d-ca18-450d-92d7-48390acf4f61",
+      "name": "client-app"
+    },
+    "ownerManagedAccess": false,
+    "displayName": "App Home Resource",
+    "attributes": {},
+    "_id": "334a60e8-d703-459b-ad80-8672af3258ac",
+    "uris": [
+      "/home"
+    ]
+  },
+  {
+    "name": "Default Resource",
+    "type": "urn:client-app:resources:default",
+    "owner": {
+      "id": "5acafb6d-ca18-450d-92d7-48390acf4f61",
+      "name": "client-app"
+    },
+    "ownerManagedAccess": false,
+    "attributes": {},
+    "_id": "f6367761-7a3a-471d-9d24-e7cc69a1311f",
+    "uris": [
+      "/*"
+    ]
+  },
+  {
+    "name": "Student Info Resource",
+    "owner": {
+      "id": "5acafb6d-ca18-450d-92d7-48390acf4f61",
+      "name": "client-app"
+    },
+    "ownerManagedAccess": false,
+    "displayName": "Student Info Resource",
+    "attributes": {},
+    "_id": "ffb7c331-9a36-4259-95e1-3e920e865bd9",
+    "uris": [
+      "/student/info"
+    ]
+  },
+  {
+    "name": "User Info Resource",
+    "owner": {
+      "id": "5acafb6d-ca18-450d-92d7-48390acf4f61",
+      "name": "client-app"
+    },
+    "ownerManagedAccess": false,
+    "displayName": "User Info Resource",
+    "attributes": {},
+    "_id": "d5b743af-5b1b-4a0f-9192-e8ee081ec0a0",
+    "uris": [
+      "/user/info"
+    ]
+  }
+]

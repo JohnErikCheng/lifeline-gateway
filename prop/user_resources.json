@@ -1,0 +1,19 @@
+{
+  "jti": "01930366-000c-4770-8a9f-29f39604e670",
+  "exp": 1561740328,
+  "nbf": 0,
+  "iat": 1561740028,
+  "aud": "client-app",
+  "typ": "Bearer",
+  "auth_time": 0,
+  "acr": "1",
+  "permissions": [
+    {
+      "rsid": "f6367761-7a3a-471d-9d24-e7cc69a1311f",
+      "rsname": "Default Resource",
+      "resource_scopes": [],
+      "resource_id": "f6367761-7a3a-471d-9d24-e7cc69a1311f"
+    }
+  ],
+  "active": true
+}
